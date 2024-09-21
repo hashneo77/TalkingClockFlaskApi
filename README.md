@@ -19,10 +19,3 @@ Before you begin, ensure you have the following installed:
 - Python 3.x
 - pip (Python package installer)
 
-## Getting Started
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/flask-time-api.git
-   cd flask-time-api
